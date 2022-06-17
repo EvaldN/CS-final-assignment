@@ -1,0 +1,15 @@
+C:\Users\voras\source\repos\FinalAss\FinalAss\obj\Debug\FinalAss.csproj.AssemblyReference.cache
+C:\Users\voras\source\repos\FinalAss\FinalAss\obj\Debug\FinalAss.csproj.SuggestedBindingRedirects.cache
+C:\Users\voras\source\repos\FinalAss\FinalAss\obj\Debug\FinalAss.Properties.Resources.resources
+C:\Users\voras\source\repos\FinalAss\FinalAss\obj\Debug\FinalAss.csproj.GenerateResource.cache
+C:\Users\voras\source\repos\FinalAss\FinalAss\obj\Debug\FinalAss.csproj.CoreCompileInputs.cache
+C:\Users\voras\source\repos\FinalAss\FinalAss\bin\Debug\FinalAss.exe.config
+C:\Users\voras\source\repos\FinalAss\FinalAss\bin\Debug\FinalAss.exe
+C:\Users\voras\source\repos\FinalAss\FinalAss\bin\Debug\FinalAss.pdb
+C:\Users\voras\source\repos\FinalAss\FinalAss\obj\Debug\FinalAss.exe
+C:\Users\voras\source\repos\FinalAss\FinalAss\obj\Debug\FinalAss.pdb
+C:\Users\voras\source\repos\FinalAss\FinalAss\obj\Debug\FinalAss.Form_LoadingScreen.resources
+C:\Users\voras\source\repos\FinalAss\FinalAss\obj\Debug\FinalAss.Form_Main.resources
+C:\Users\voras\source\repos\FinalAss\FinalAss\bin\Debug\TouchingGrass.mdf
+C:\Users\voras\source\repos\FinalAss\FinalAss\bin\Debug\TouchingGrass_log.ldf
+C:\Users\voras\source\repos\FinalAss\FinalAss\obj\Debug\FinalAss.AboutBox1.resources
